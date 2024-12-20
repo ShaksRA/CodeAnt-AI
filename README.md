@@ -30,8 +30,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/deadland2002/codeantai
-   cd codeantai
+   git clone https://github.com/ShaksRA/CodeAnt-AI
+   cd CodeAnt-AI
    ```  
 
 2. **Install dependencies**:  
